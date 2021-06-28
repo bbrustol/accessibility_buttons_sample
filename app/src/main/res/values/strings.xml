@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Accessibility Sample</string>
+    <string name="my_text_button">Text button</string>
+    <string name="text_to_simulate_a_button_inside_linearlayout">Text to simulate a button inside linearLayout</string>
+    <string name="text_to_simulate_a_button_inside_constraint">Text to simulate a button inside constraint nullable content description add clickable and focusable</string>
+    <string name="go_to_settings_button">go to setting</string>
+    <string name="text_and_image_button">text and image</string>
+    <string name="settings_button">Setting</string>
+</resources>

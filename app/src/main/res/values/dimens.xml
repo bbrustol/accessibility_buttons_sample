@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="minimumLine">1dp</dimen>
+    <dimen name="halfMeasure">2dp</dimen>
+    <dimen name="measure1">4dp</dimen>
+    <dimen name="measure2">8dp</dimen>
+    <dimen name="measure3">12dp</dimen>
+    <dimen name="measure4">16dp</dimen>
+
+    <dimen name="minHeight">48dp</dimen>
+</resources>
